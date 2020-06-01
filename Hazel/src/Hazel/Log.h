@@ -1,6 +1,6 @@
 #pragma once
 
-#include <memory>
+#include "hzpch.h"
 
 #include "Hazel/Core.h"
 #include "spdlog/spdlog.h"

@@ -1,5 +1,6 @@
 #pragma once
 
+#include "hzpch.h"
 #include "Hazel/Events/Event.h"
 #include "Hazel/Core/Input.h"
 
